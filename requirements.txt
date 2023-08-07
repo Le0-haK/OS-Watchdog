@@ -1,0 +1,7 @@
+tkinter
+pycryptodomex
+hashlib
+psutil
+
+
+
