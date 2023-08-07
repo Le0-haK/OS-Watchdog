@@ -26,6 +26,13 @@ Continuously monitor critical system parameters, including CPU usage, memory, di
 Set up custom alerts for specific events or threshold breaches.
 Gain insights into your system's performance and detect potential security threats promptly.
 
+
+Installation
+1. Clone the repo
+2. pip3 -r requirements.txt
+3. ./main.sh
+
+
 Contributions:
 We encourage community contributions to make our tools even more robust and secure. If you find any issues or have ideas for improvements, please feel free to raise an issue or submit a pull request on our GitHub repository link-to-your-github-repo.
 
