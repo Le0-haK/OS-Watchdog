@@ -33,7 +33,7 @@ Installation
 3. ./main.sh
 
 
-Contributions
+Contributions :
 We encourage community contributions to make our tools even more robust and secure. If you find any issues or have ideas for improvements, please feel free to raise an issue or submit a pull request on our GitHub repository.
 
 Stay proactive about your data security and system monitoring! Let our tools help you safeguard your valuable information and keep your systems running smoothly. Happy securing!
